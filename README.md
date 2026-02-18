@@ -137,10 +137,10 @@ I know you're all looking for an example of a bad README now, so check out [py-f
 
 When making open source software, you share your work with the world. Whether that is in the hope of contributions back, humbly if just one other person out there finds it useful, or building a community, I think it is important to solicit engagement. To do this, I like to point people over to the Discussions tab or invite them to request new features by opening an issue.
 
-If you want to encourage others to contribute back to your project, this is the place to do it. Point people to your DEVELOPMENT and/or CONTRIBUTING guides if you have them. Further, you can outline any other ways to contribute such as translating the README or documentation.
+If you want to encourage others to contribute back to your project, this is the place to do it. Point people to your DEVELOPMENT and/or CONTRIBUTING guides if you have them. Furthermore, you can outline any other ways to contribute such as translating the README or documentation.
 
 
-## 📖 Further reading
+## 📖 Additional reading
 
 - https://github.com/hackergrrl/art-of-readme
 - https://www.giacomodebidda.com/articles/how-to-write-a-killer-readme/
